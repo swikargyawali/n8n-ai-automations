@@ -43,7 +43,7 @@ More workflows are coming soon!
 ## 📂 Repository Structure
 
 ```text
-workflows/
+n8n-ai-automations/
 │
 ├── client-onboarding/
 │   ├── workflow.json
