@@ -10,7 +10,7 @@ This repository showcases real-world automation solutions designed to streamline
 
 | Workflow                     | Description                                                                               | Status     |
 | ---------------------------- | ----------------------------------------------------------------------------------------- | ---------- |
-| Client Onboarding Automation | AI-powered onboarding system with automated welcome emails and Terms of Service workflow. | ✅ Complete |
+| Client Onboarding Automation | AI-powered onboarding system with automated welcome emails and Terms of Service workflow. | ✅Complete |
 
 More workflows are coming soon!
 
