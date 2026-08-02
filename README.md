@@ -1,6 +1,6 @@
 # 🤖 n8n AI Automations
 
-A curated collection of production-ready AI automation workflows built with **n8n**,  **OpenAI**, and modern integrations.
+A curated collection of production-ready AI automation workflows built with **n8n**, **OpenAI**, and modern integrations.
 
 This repository showcases real-world automation solutions designed to streamline business processes, improve productivity, and demonstrate practical AI implementations. Each workflow is documented, reusable, and easy to import into your own n8n instance.
 
